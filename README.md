@@ -1,3 +1,6 @@
 My Work Showcase
-* Item1 *Item 2
+* Bill Splitting App
+* Flags guessing games
+* Rock Paper Scissor
+* Time unit converter
   
