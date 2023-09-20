@@ -1,8 +1,11 @@
-# My Work Showcase
-* Bill Splitting App
+# My IOS Work Showcase
+* [Bill Splitting App](https://github.com/kyawphyoaung-ABA/luffy/edit/main/README.md#1-bill-splitting-app)
 * Flags guessing games
 * Rock Paper Scissor
 * Time unit converter
+  
+  ## About me
+
   
   ---
   ## 1. Bill Splitting App
