@@ -1,6 +1,6 @@
 # My Work Showcase
 * [Bill Splitting App](https://github.com/kyawphyoaung-ABA/luffy/edit/main/README.md#1-bill-splitting-app)
-* Flags guessing game
+* Flags guessing game 
 * Rock Paper Scissor
 * Time unit converter
   
