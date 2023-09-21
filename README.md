@@ -9,5 +9,8 @@
   
   ---
   ## 1. Bill Splitting App
-  
-![](https://github.com/kyawphyoaung-ABA/luffy/issues/1#issue-1906925997.png =250x250)
+
+<img src="https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/ebb6f83c-123d-435d-bc5b-c086719f9b99.png" width="235" height="511"> <img src="https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/8873a08b-69e0-4938-bb79-3398241af564.png" width="235" height="511">
+
+
+
