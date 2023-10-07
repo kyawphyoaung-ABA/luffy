@@ -4,7 +4,8 @@
 * Rock Paper Scissor Game
 * Time unit converter App
 * Estimate ur sleeping hours App
-* Word scramble game 
+* Word scramble game
+* Multiplication Fun Game
   ## About me
 
   
@@ -57,9 +58,11 @@ https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/845553ae-7c87-45dd-97e
 https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/feb6f87d-8d7c-45a5-ae0b-a250d818454c
 
 
+  ## 7. Multiplication Fun Game
 
 
+ <img src="https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/8baa3a19-8219-4e53-acde-0bab17d13079.png" width="235" height="511"> <img src="https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/1691482b-b73a-4cbb-b17c-290e1b262055.png" width="235" height="511"> <img src="https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/5855e778-4462-4345-aaa9-7c258fce4f8a.png" width="235" height="511">
 
-
+https://github.com/kyawphyoaung-ABA/luffy/assets/59525242/10446a4f-2382-4027-baad-dbbd2c8c3dec
 
 
